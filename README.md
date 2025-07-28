@@ -13,8 +13,14 @@ The project follows a standard machine learning workflow:
 4.  Model Training (Evaluating various classification algorithms like Naive Bayes, SVM, Logistic Regression, KNN, Decision Tree, Random Forest, and XGBoost) 🤖
 5.  Model Evaluation (Using metrics like accuracy, precision, recall, f1-score, and ROC AUC score) ✅💯
 
+  ### Distribution Of Heart Disease
+  ![](https://github.com/sinhaaayush10/heart-failure-prediction/blob/cadd01298313b8a68e5881af5eeea54f808e0e44/HeartDisease.png)
+
+  
    ### Age Distribution by Heart Disease
    ![Age Distribution](https://github.com/sinhaaayush10/heart-failure-prediction/blob/3b22977ccb85fa46f1e3c9bc8449a70ef54be3a2/Distribution%20Of%20Age%20by%20Heart%20Disease.png)
+
+   
 ### Distribution of Resting ECG
 ![Resting ECG](https://github.com/sinhaaayush10/heart-failure-prediction/blob/248d86f605b0dd0f0032c6234b25bb974efc21ba/Distribution%20of%20Resting%20ECG.png)
 
