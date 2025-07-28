@@ -13,6 +13,9 @@ The project follows a standard machine learning workflow:
 4.  Model Training (Evaluating various classification algorithms like Naive Bayes, SVM, Logistic Regression, KNN, Decision Tree, Random Forest, and XGBoost) 🤖
 5.  Model Evaluation (Using metrics like accuracy, precision, recall, f1-score, and ROC AUC score) ✅💯
 
+   ### Age Distribution by Heart Disease
+   ![Age Distribution](Distribution Of Age by Heart Disease.png)
+
 **How to Run the Notebook:** ▶️
 
 1.  Clone this repository to your local machine (we'll cover this in a later step, or you can download the notebook directly).
