@@ -15,6 +15,7 @@ The project follows a standard machine learning workflow:
 
    ### Age Distribution by Heart Disease
    ![Age Distribution](https://github.com/sinhaaayush10/heart-failure-prediction/blob/3b22977ccb85fa46f1e3c9bc8449a70ef54be3a2/Distribution%20Of%20Age%20by%20Heart%20Disease.png)
+### Distribution of Resting ECG
 
 **How to Run the Notebook:** ▶️
 
