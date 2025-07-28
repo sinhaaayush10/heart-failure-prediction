@@ -17,6 +17,9 @@ The project follows a standard machine learning workflow:
    ![Age Distribution](https://github.com/sinhaaayush10/heart-failure-prediction/blob/3b22977ccb85fa46f1e3c9bc8449a70ef54be3a2/Distribution%20Of%20Age%20by%20Heart%20Disease.png)
 ### Distribution of Resting ECG
 ![Resting ECG](https://github.com/sinhaaayush10/heart-failure-prediction/blob/248d86f605b0dd0f0032c6234b25bb974efc21ba/Distribution%20of%20Resting%20ECG.png)
+
+### Model Accuracy
+![ ](https://github.com/sinhaaayush10/heart-failure-prediction/blob/8ca878ad47ff10b8e53d02fd357df9ba19639ef6/Model%20Accuracy%20Comparison%20bar%20plot.png)
 **How to Run the Notebook:** ▶️
 
 1.  Clone this repository to your local machine (we'll cover this in a later step, or you can download the notebook directly).
