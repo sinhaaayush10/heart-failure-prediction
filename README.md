@@ -14,7 +14,7 @@ The project follows a standard machine learning workflow:
 5.  Model Evaluation (Using metrics like accuracy, precision, recall, f1-score, and ROC AUC score) ✅💯
 
    ### Age Distribution by Heart Disease
-   ![Age Distribution](Distribution Of Age by Heart Disease.png)
+   ![Age Distribution](https://github.com/sinhaaayush10/heart-failure-prediction/blob/3b22977ccb85fa46f1e3c9bc8449a70ef54be3a2/Distribution%20Of%20Age%20by%20Heart%20Disease.png)
 
 **How to Run the Notebook:** ▶️
 
